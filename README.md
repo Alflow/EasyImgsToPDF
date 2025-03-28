@@ -27,11 +27,6 @@ Una aplicación de escritorio simple y elegante para convertir imágenes a PDF.
   - img2pdf
   - tkinter (incluido en Python)
 
-## Instalación
-
-1. Descarga el ejecutable que está en la carpeta DIST
-2. ¡Listo para usar!
-
 ## Desarrollo
 
 Para compilar desde el código fuente:
