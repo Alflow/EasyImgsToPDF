@@ -1,4 +1,4 @@
-# ImgsToPDF! By Alflow
+# EasyImgsToPDF! By Alflow
 
 Una aplicación de escritorio simple y elegante para convertir imágenes a PDF.
 
